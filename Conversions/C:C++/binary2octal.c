@@ -1,5 +1,6 @@
 // Binary number to octal number conversion
 #include<stdio.h>
+#include<conio.h>
 
 //Function that returns the last three digits
 int three_digits(int n)
